@@ -44,12 +44,51 @@ Spring Robotics is a multi day course taught over the period of 11 weeks to stud
 
 **Stretch**
 
-1.	Line following robot have the robot follow a track (of a specific color) on the floor. The robot should ignore other colors and handle light.
+1.	Line following robot - have the robot follow a track (of a specific color) on the floor. The robot should ignore other colors and handle ambient light.
 
 ####Week Two
-**Goals**:
+**Goals**: Introduce the concept of modular design and hot swappable components. 
 
-**Programs**
+**Programs and Builds**
+
+1.
+2.
+3.
+
+**Session Guide**
+
+**Stretch**
+
+####Week Three
+**Goals**: Introduce the concept of power transfer and gear ratios.
+
+**Programs and Builds**
+
+1.
+2.
+3.
+
+**Session Guide**
+
+**Stretch**
+
+####Week Four
+**Goals**: Mid Season Challenge
+
+**Programs and Builds**
+
+1.
+2.
+3.
+
+**Session Guide**
+
+**Stretch**
+
+####Week Five
+**Goals**: Mid Season Challenge
+
+**Programs and Builds**
 
 1.
 2.
