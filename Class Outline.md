@@ -51,16 +51,21 @@ Spring Robotics is a multi day course taught over the period of 11 weeks to stud
 
 **Programs and Builds**
 
-1.
+1. Friction Wheel Hook Build (TODO)
 2.
 3.
 
 **Session Guide**
 
+1.	There are multiple concepts for modular design and hot swappable components. These include pinless design using hooks, motorless design using the robots inertia or motion, and quick connect concepts for transferring power. This session will cover all three.
+2.	Pinless deign allows some attachments to be quickly removed and added using a bracket or frame on the base robot. The video [Quick Pinless Attachments for LEGO EV3 Competition Robots] (http://www.fllcasts.com/episodes/64-quick-pinless-attachments-for-lego-ev3-competition-robots-part-2) by FLLCasts demonstrates the concept.
+3.	Not all movement needs to be directly driven by a motor. For example, in the video above (item 2) the builder uses inertia to "throw" a capture device when the robot comes to a stop. Another example was demonstrated by the Purple Flaming Trashcans during last year's FLL Competition when they used a wheel and friction to set a hook.
+4. 
+
 **Stretch**
 
 ####Week Three
-**Goals**: Introduce the concept of power transfer and gear ratios.
+**Goals**: Introduce the concept of power transfer with gear ratios.
 
 **Programs and Builds**
 
@@ -69,6 +74,12 @@ Spring Robotics is a multi day course taught over the period of 11 weeks to stud
 3.
 
 **Session Guide**
+
+1.   There are a few simple concepts to master to effectively use gears in robot design.
+	* 	Gearing down (small to large) increases torque (power) and decreases speed.
+	*	Gearing up (large to small) decreases torque and increases speed.
+	*	Even numbers of gears reverse the direction of rotation. Odd numbers of gears preserve the direction of rotation.
+	*	The worm gear or beveled tooth gear can be used to change the axis of rotation perpendicular to the drive.
 
 **Stretch**
 
