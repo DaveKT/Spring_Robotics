@@ -52,7 +52,7 @@ Spring Robotics is a multi day course taught over the period of 11 weeks to stud
 **Programs and Builds**
 
 1. Friction Wheel Hook Build (TODO)
-2.
+2. Pinless Connector Concept Model
 3.
 
 **Session Guide**
