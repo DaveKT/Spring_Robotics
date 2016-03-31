@@ -53,16 +53,18 @@ Spring Robotics is a multi day course taught over the period of 11 weeks to stud
 
 1. Friction Wheel Hook Build (TODO)
 2. Pinless Connector Concept Model
-3.
+3. Power Transfer Model (TODO)
 
 **Session Guide**
 
 1.	There are multiple concepts for modular design and hot swappable components. These include pinless design using hooks, motorless design using the robots inertia or motion, and quick connect concepts for transferring power. This session will cover all three.
 2.	Pinless deign allows some attachments to be quickly removed and added using a bracket or frame on the base robot. The video [Quick Pinless Attachments for LEGO EV3 Competition Robots] (http://www.fllcasts.com/episodes/64-quick-pinless-attachments-for-lego-ev3-competition-robots-part-2) by FLLCasts demonstrates the concept.
 3.	Not all movement needs to be directly driven by a motor. For example, in the video above (item 2) the builder uses inertia to "throw" a capture device when the robot comes to a stop. Another example was demonstrated by the Purple Flaming Trashcans during last year's FLL Competition when they used a wheel and friction to set a hook.
-4. 
+4. GooseChase suggestions for this week: a table that has a fixed number of parts and asks the student to build an attachment that will push a button. The basic frame of the robot is already available.
 
 **Stretch**
+
+1. At the table ask the teams to quickly (within 15 minutes) build a modular attachment that will collect one of the sea creatures. (Note that this will use the same swing arm concept demonstrated earlier in the video.)
 
 ####Week Three
 **Goals**: Introduce the concept of power transfer with gear ratios.
