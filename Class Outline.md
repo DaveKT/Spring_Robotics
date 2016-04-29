@@ -1,6 +1,6 @@
 ##Spring Robotics Class Outline
 
-Spring Robotics is a multi day course taught over the period of 11 weeks to students between the ages of 8 and 12. The primary goal of the course is to strengthen the students' understanding of LEGO robotics and FLL concepts in anticipation for 2016/17 FLL season.
+Spring Robotics is a multi day course taught over the period of 4 weeks to students between the ages of 8 and 12. The primary goal of the course is to strengthen the students' understanding of LEGO robotics and FLL concepts in anticipation for 2016/17 FLL season.
 
 ###Course Materials for SpringRobotics
 
